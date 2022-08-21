@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="Allison_Intro">Hello World! My name is Allison and I enjoy watching anime in my free time.</string>
+    <string name="button_text">Say hello to Kurisu!</string>
+</resources>
